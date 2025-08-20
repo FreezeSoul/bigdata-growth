@@ -468,6 +468,13 @@
 
 * [数据中台读书笔记](datawarehouse/数据中台读书笔记.md)
 
+## 算法策略
+
+### 特征工程
+
+* [Embedding快速入门](strategy/embedding/EmbeddingOverview.md)
+* [常用特征工程清洗方法](strategy/feature_engineering/常用特征工程清洗方法.md)
+
 ## books
 
 **数据笔记相关**
